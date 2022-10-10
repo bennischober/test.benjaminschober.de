@@ -41,5 +41,5 @@ ul.nav-menu {
 
 .nav-menu li a.current {
     background-color: #ddd;
-    color: #444;
+    color: rgb(189, 80, 80);
 }
