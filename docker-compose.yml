@@ -1,7 +1,7 @@
 version: '2'
 services:
   main_app:
-    image: ""
+    image: bennischober/remix-test
     container_name: remix_app
     ports:
       - "80:80"
