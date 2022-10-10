@@ -1,0 +1,9 @@
+version: '2'
+services:
+  main_app:
+    image: ""
+    container_name: remix_app
+    ports:
+      - "80:80"
+    volumes:
+      - /var/www/benjaminschober.de/test/posts:/posts
